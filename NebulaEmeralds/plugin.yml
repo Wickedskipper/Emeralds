@@ -1,0 +1,10 @@
+name: NebulaEmeralds
+main: uk.co.reosh.nebula.Emeralds.Emeralds
+version: ${project.version}
+author: Reosh
+description: Nebula Emeralds plugin and API
+commands:
+  emeralds:
+    description: Nebula Emeralds
+    usage: /emeralds (command) (args)
+    aliases: [nem, ne]
